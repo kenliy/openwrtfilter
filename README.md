@@ -7,6 +7,7 @@
 Build OpenWrt using GitHub Actions
 
 [Read the details in my blog (in Chinese) | 中文教程](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
+[OpenAppFilter 基于OpenWrt的App过滤(上网管控)模块，支持抖音、斗鱼、王者荣耀、腾讯视频等上百款App过滤 ](https://github.com/destan19/OpenAppFilter)
 
 ## Usage
 
