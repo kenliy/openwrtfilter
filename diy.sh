@@ -10,7 +10,7 @@
 git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
 git clone https://github.com/tty228/luci-app-serverchan package/luci-app-serverchan
 git clone https://github.com/zerotier/ZeroTierOne.git  package/ZeroTierOne
-git clone https://github.com/maxlicheng/luci-app-unblockmusic.git package/UnblockNeteaseMusic
-git clone https://github.com/rosywrt/luci-theme-rosy.git package/luci-theme-rosy
+git clone https://github.com/maxlicheng/luci-app-unblockmusic package/UnblockNeteaseMusic
+#git clone https://github.com/rosywrt/luci-theme-rosy.git package/luci-theme-rosy
 ./scripts/feeds update -a
 ./scripts/feeds install -a
